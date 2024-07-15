@@ -1,6 +1,6 @@
 # BirthDayCard
 
-![App Screenshot](assets/Screen_Shot/Screenshot_1721002370.png)
+<img src="assets/Screen_Shot/Screenshot_1721002370.png" alt="App Screenshot" width="300" />
 
 **BirthDayCard** is a simple Flutter application that displays a birthday card image in the center of the screen. This project serves as an example of using Flutter to create a basic mobile application with a static background and image display.
 
